@@ -2,4 +2,4 @@
 このリポジトリはGit動画講座用です．
 ローカルリポで変更
 rebase用(rebaseconflict)
-stashコンフリクト用
+stash練習のスタック済み
